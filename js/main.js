@@ -4,8 +4,7 @@
 const nomeUtente = prompt('Nome');
 const cognomeUtente = prompt('Cognome');
 const colorePreferitoUtente = prompt('Colore preferito');
-const classeUtente = prompt('Classe');
-const password = `${nomeUtente}${cognomeUtente}${colorePreferitoUtente}${classeUtente}`;
+const password = `${nomeUtente}${cognomeUtente}${colorePreferitoUtente}89`;
 
 //stampo il risultato su console
 console.log(password);
