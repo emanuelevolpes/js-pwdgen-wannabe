@@ -11,4 +11,4 @@ const password = `${nomeUtente}${cognomeUtente}${colorePreferitoUtente}${classeU
 console.log(password);
 
 //viasulizzo il risultato all'interno del codice html
-document.querySelector('h1').innerHTML = password;
+document.querySelector('p').innerHTML = password;
